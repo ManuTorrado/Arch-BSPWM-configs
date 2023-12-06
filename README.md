@@ -11,3 +11,11 @@ Es importante que el archivo de configuracion de bspwm tenga permisos.
 ```
 chmod +x ~/.config/bspwm/bspwmrc
 ```
+
+## VirtualBox
+
+Existe una libreria para virtual box
+
+`sudo pacman -Sy virtualbox-guest-utils`
+
+`sudo systemctl enable vboxservice.service`

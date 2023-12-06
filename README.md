@@ -25,3 +25,5 @@ Existe una libreria para virtual box
 ### ZSH
 
 `sudo pacman -S zsh zsh-completions zsh-autosuggestions`
+
+[https://github.com/zsh-users/zsh-autosuggestions/tree/master]

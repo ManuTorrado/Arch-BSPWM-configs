@@ -19,3 +19,9 @@ Existe una libreria para virtual box
 `sudo pacman -Sy virtualbox-guest-utils`
 
 `sudo systemctl enable vboxservice.service`
+
+
+
+### ZSH
+
+`sudo pacman -S zsh zsh-completions zsh-autosuggestions`

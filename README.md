@@ -26,4 +26,9 @@ Existe una libreria para virtual box
 
 `sudo pacman -S zsh zsh-completions zsh-autosuggestions`
 
-[https://github.com/zsh-users/zsh-autosuggestions/tree/master]
+https://github.com/zsh-users/zsh-autosuggestions/tree/master
+
+
+### Fuentes 
+Descargar las fuentes de  https://www.nerdfonts.com/
+Extraer en `~/.local/share/fonts/nerd-fonts`

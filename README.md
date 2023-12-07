@@ -1,5 +1,14 @@
 # Configuracion de entorno en Arch linux con bspwm y sxhkd
 
+### Recursos utilizados
+- zsh
+- alacritty
+- bspwm
+- sxhkd
+- colorls
+- feh
+- WMNAME
+
 Suele haber un ejemplo de configuracion en ``/usr/share/doc/bspwm/examples``
 
 Copiamos ``bspwmrc`` y ``sxhkdrc `` en ``./config/bspwm`` y ``./config/sxhkd``
